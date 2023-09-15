@@ -1,6 +1,12 @@
 # @cheesetan 🧀
 
-I'm a 15 year old iOS Developer from Singapore, and I am currently studying in the School of Science and Technology, Singapore. I also help to run the iOS app development classes in my school's Coding Talent Development Program, SST Incorporated. I was also one of the 350 winners of Apple's Swift Student Challenge in 2023, and gave a presentation about my winning project at Apple Orchard Road.
+I'm a 15 year old iOS Developer from Singapore, and I am currently studying in the School of Science and Technology, Singapore. I help run the iOS app development classes in my school's Coding Talent Development Program (SST Inc.) by creating lesson slides and recording lesson videos, and teaching around 50+ of my juniors every week. I am also one of the 350 winners of Apple's Swift Student Challenge in 2023, and gave a presentation about my winning project at Apple Orchard Road.
+
+
+## Apps that I have worked on:
+- [MathX.](https://www.github.com/Aathithya-J/MathX-Notes-Iphone) (Download it via the [App Store](https://apps.apple.com/sg/app/mathx/id1434950136) or [Play Store](https://play.google.com/store/apps/details?id=org.sstinc.mathx&hl=en&pli=1))
+- [AttendINC](https://www.github.com/cheesetan/AttendINC/)
+- [Glassroom](https://www.github.com/KaiTheRedNinja/The-GlassRoom/)
 
 ## Technologies I work with:
 - Swift (Xcode IDE)
