@@ -1,4 +1,4 @@
-# @cheesetan
+# @cheesetan 🧀
 
 I'm a 15 year old iOS Developer from Singapore, and I am currently studying in the School of Science and Technology, Singapore. I also help to run the iOS app development classes in my school's Coding Talent Development Program, SST Incorporated. I was also one of the 350 winners of Apple's Swift Student Challenge in 2023, and gave a presentation about my winning project at Apple Orchard Road.
 
@@ -14,7 +14,7 @@ I'm a 15 year old iOS Developer from Singapore, and I am currently studying in t
 - [Apple Swift Student Challenge Showcase - Rainbow Diaries](https://rainbowdiaries.com/2023/06/21/apple-swift-student-challenge-showcase/)
 
 ## Reach out to me!
-You can contact me via email at [cheesetan3378@gmail.com](cheesetan3378@gmail.com)
+You can contact me via email at [cheesetan3378@gmail.com](mailto:cheesetan3378@gmail.com) or via my [LinkedIn profile](https://www.linkedin.com/in/tristanchay/)!
 
 <!--
 **cheesetan/cheesetan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
