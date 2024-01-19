@@ -6,7 +6,7 @@ I'm a 15 year old iOS Developer from Singapore, and I am currently studying in t
 ## Apps that I have worked on:
 - [MathX.](https://www.github.com/Aathithya-J/MathX-Notes-Iphone) (Download it via the [App Store](https://apps.apple.com/sg/app/mathx/id1434950136) or [Play Store](https://play.google.com/store/apps/details?id=org.sstinc.mathx&hl=en&pli=1))
 - [AttendINC](https://www.github.com/cheesetan/AttendINC/)
-- [Glassroom](https://www.github.com/KaiTheRedNinja/The-GlassRoom/)
+- [Glassroom](https://www.github.com/KaiTheRedNinja/The-GlassRoom/) (Available on the [App Store](https://apps.apple.com/us/app/glassroom/id6476105446))
 
 ## Technologies I work with:
 - Swift (Xcode IDE)
