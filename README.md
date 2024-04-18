@@ -10,7 +10,7 @@ I'm a 15 year old iOS Developer from Singapore, and I am currently studying in t
 
 ## Technologies I work with:
 - Swift (Xcode IDE)
-- SwiftUI frontend
+- SwiftUI
 - ReactJS (VSCode IDE) (learning)
 - Python
 - Firebase
